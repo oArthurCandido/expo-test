@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "second-test",
-    "slug": "second-test",
+    "slug": "twebapp",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -15,16 +15,24 @@
       "**/*"
     ],
     "ios": {
-      "supportsTablet": true
+      "supportsTablet": true,
+      "bundleIdentifier": "com.arthurcandido.twebapp"
     },
     "android": {
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
-      }
+      },
+      "package": "com.arthurcandido.twebapp"
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "ced2fd23-3904-4859-8ac9-52c97772fea2"
+      }
+    },
+    "owner": "arthurcandido"
   }
 }
