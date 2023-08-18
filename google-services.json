@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "460079461861",
+    "project_id": "first-test-tweb",
+    "storage_bucket": "first-test-tweb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:460079461861:android:ced282e11e6f1f1ce92b0c",
+        "android_client_info": {
+          "package_name": "com.arthurcandido.twebapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "460079461861-bfn1fmn38g0akmoafc0l9v8j1gbkk6ca.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.arthurcandido.twebapp",
+            "certificate_hash": "00c2890109bdaf774ff383b1cb475975d5e951f5"
+          }
+        },
+        {
+          "client_id": "460079461861-uf28eithunhveej8k437p2vqquda4133.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.arthurcandido.twebapp",
+            "certificate_hash": "759a71c1d842d4e0f045e1ab023498aed43e8d5d"
+          }
+        },
+        {
+          "client_id": "460079461861-52eua1ilp2kip22mq4sc1nl4nco5n7fj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjCmOPpMjfm5vJhh8H0388EMvxWHak0og"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "460079461861-52eua1ilp2kip22mq4sc1nl4nco5n7fj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
